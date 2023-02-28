@@ -2,7 +2,7 @@
 Prototype Designs for a Real Estate Website - Midterm Resources for Students without Design Foundations I designs
 
 ## Prototype File
-In the prototype-designs folder, there is a file called 'real-estate-website.sketch'. This is actually an **Adobe Xd** file, just double click it and it should open in Xd.
+In the prototype-designs folder, there is a file called '**real-estate-website.sketch**'. This is actually an **Adobe Xd** file, just double click it and it should open in Xd.
 
 ## Author
 **Name:** Kishore  
